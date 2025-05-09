@@ -1,0 +1,31 @@
+.testemonial-section-bottom {
+    margin-top: 2rem;
+    background-color: #f1e3e3;
+    padding: 1.5rem 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    max-width: 750px;
+    border-radius: 2rem;
+    text-align: center;
+  }
+  
+  .testemonial-section-bottom p {
+    font-weight: 700;
+    color: #515151;
+    max-width: 500px;
+    font-size: 1.1rem;
+    margin: 2rem 0rem;
+    text-align: justify;
+  }
+  
+  .testemonial-section-bottom h2 {
+    margin-top: 1.5rem;
+  }
+  
+  .testemonials-star-container svg {
+    margin: 0rem 0.25rem;
+    font-size: 1.5rem;
+    color: #fd9d0dfb;
+  }
