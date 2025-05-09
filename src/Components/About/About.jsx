@@ -1,5 +1,5 @@
 // import aboutbackground from "../../assets/aboutbackground1.jpg";
-// import AboutBackgroundImage from "../../assets/about-image.png";
+import AboutBackgroundImage from "../../assets/about-image.png";
 import { BsFillPlayCircleFill } from "react-icons/bs";
 
 import './About.css';
@@ -11,7 +11,7 @@ const About = () => {
         {/* <img src={aboutbackground} alt="imagem de donuts empilhados" /> */}
       </div>
       <div className="about-section-image-container">
-        {/* <img src={AboutBackgroundImage} alt="mao segurando um donut" /> */}
+        <img src={AboutBackgroundImage} alt="mao segurando um donut" />
       </div>
       <div className="about-section-text-container">
         <p className="primary-subheading">Sobre Nós</p>
